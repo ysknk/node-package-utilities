@@ -1,0 +1,29 @@
+{
+  "name": "node-package-utilities",
+  "version": "1.0.0",
+  "description": "node package utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysknk/node-package-utilities.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "js",
+    "utilities"
+  ],
+  "author": "ysknk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysknk/node-package-utilities/issues"
+  },
+  "homepage": "https://github.com/ysknk/node-package-utilities#readme",
+  "devDependencies": {
+    "find-up": "^6.3.0"
+  }
+}
