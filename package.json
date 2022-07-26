@@ -24,9 +24,7 @@
   },
   "homepage": "https://github.com/ysknk/node-package-utilities#readme",
   "devDependencies": {
-    "find-up": "^6.3.0"
-  },
-  "dependencies": {
+    "find-up": "^6.3.0",
     "fs": "^0.0.1-security"
   }
 }
