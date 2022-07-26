@@ -23,7 +23,10 @@
     "url": "https://github.com/ysknk/node-package-utilities/issues"
   },
   "homepage": "https://github.com/ysknk/node-package-utilities#readme",
-  "dependencies": {
+  "devDependencies": {
     "find-up": "^6.3.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
